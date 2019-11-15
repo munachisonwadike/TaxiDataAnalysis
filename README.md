@@ -1,5 +1,3 @@
 # TaxiDataAnalysis
 
-An attempt to use Taxi Data from New York TLC to predict speed of a journey based on a pickup location
-
-- Insert more information about the data and the process, and how to run the notebook here.
+An work that builds on previous work in analysing Taxi Data from New York TLC. The focus is on predicting speed of a journey based on a pickup location to maximise income for taxi drivers. The approach taken is easily understood from the jupyter notebook, and a slide presentation is attached.
